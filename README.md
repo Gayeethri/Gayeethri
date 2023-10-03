@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gayeethripolamreddy@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yNvDmPsMpxuQmrcxwEnC0L-BbKXcz__6/view?usp=sharing)
+- 📄 Know about my experiences [Gayeethri Polamreddy Resume](https://drive.google.com/file/d/1yNvDmPsMpxuQmrcxwEnC0L-BbKXcz__6/view?usp=sharing)
 
 </p>
 
@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girija159&show_icons=true&locale=en&layout=compact" alt="rajashekarredde" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=girija159&show_icons=true&locale=en" alt="rajashekarredde" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayeethri&show_icons=true&locale=en" alt="rajashekarredde" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=girija159&" alt="rajashekarredde" /></p>
