@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gayeethripolamreddy@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Girija159/girija159.github.io/blob/main/assets/resume/girija_polamreddy.pdf](https://github.com/Girija159/girija159.github.io/blob/main/assets/resume/girija_polamreddy.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yNvDmPsMpxuQmrcxwEnC0L-BbKXcz__6/view?usp=sharing)
 
 </p>
 
