@@ -1,13 +1,13 @@
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-<h1 align="center">Hi, I am Girija Polamreddy </h1>
+![MasterHead]([https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXuqNJ05wymN2WFQMNvJxCqMH5SsGK9xXz6AEvhbOA-cibdS0mIinl89usfPOVZlQSw&usqp=CAU))
+<h1 align="center">Hi, I am Gayeethri Polamreddy </h1>
 
 <h3 align="center">I am a passionate human who loves to build applications and apply algorithms to solve real-world problems.</h3>
 
-<img align="right" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" width="400" src="[https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif](https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif)">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **girijapolamreddy1599@gmail.com**
+- 📫 How to reach me **gayeethripolamreddy@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Girija159/girija159.github.io/blob/main/assets/resume/girija_polamreddy.pdf](https://github.com/Girija159/girija159.github.io/blob/main/assets/resume/girija_polamreddy.pdf)
 
