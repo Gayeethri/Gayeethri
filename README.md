@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **gayeethripolamreddy@gmail.com**
 
-- 📄 Know about my experiences [Gayeethri Polamreddy Resume](https://drive.google.com/file/d/1yNvDmPsMpxuQmrcxwEnC0L-BbKXcz__6/view?usp=sharing)
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
